@@ -1,0 +1,6 @@
+machine_id,name,type,location,installation_date,operating_hours
+MTR-024,CNC Motor MTR-024,CNC Motor,Plant Floor A,2024-08-15,4200
+P-102,Pump P-102,Centrifugal Pump,Plant Floor A,2024-08-15,4000
+C-014,Compressor C-014,Air Compressor,Plant Floor A,2024-08-15,3800
+H-008,Hydraulic Unit H-008,Hydraulic Unit,Plant Floor A,2024-08-15,4100
+F-019,Cooling Fan F-019,Industrial Fan,Plant Floor A,2024-08-15,3500
